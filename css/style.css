@@ -1,0 +1,16 @@
+body{
+    background-color: cyan;
+    margin: 50px;
+}
+p {
+    background-color: burlywood;
+    padding: 10px;
+    border: 2px solid rgb(135, 116, 9);
+    border-radius: 5%;
+    font-size: 30px;
+}
+div {
+    color: black;
+    text-align: center;
+    width: 80%;
+}
